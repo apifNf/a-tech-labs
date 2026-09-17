@@ -11,6 +11,7 @@ A-Tech Labs builds practical AI-powered business systems to help founders launch
 Our focus:
 
 - AI automation workflows
+- Modern Frontend Development
 - founder productivity systems
 - prompt frameworks
 - digital business operating systems
